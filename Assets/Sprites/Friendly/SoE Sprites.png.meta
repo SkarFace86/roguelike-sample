@@ -1,0 +1,1129 @@
+fileFormatVersion: 2
+guid: 3137a4edd411a74468290d9c775edc6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7838684927993367655
+    second: SoE Sprites_0
+  - first:
+      213: 2328802139364606502
+    second: SoE Sprites_1
+  - first:
+      213: -2301106946939763364
+    second: SoE Sprites_2
+  - first:
+      213: -4194695990747938185
+    second: SoE Sprites_3
+  - first:
+      213: -5998746267838795178
+    second: SoE Sprites_4
+  - first:
+      213: 5608672076139310777
+    second: SoE Sprites_5
+  - first:
+      213: 8038066293727117763
+    second: SoE Sprites_6
+  - first:
+      213: -909009948087933079
+    second: SoE Sprites_7
+  - first:
+      213: 6436902000232084419
+    second: SoE Sprites_8
+  - first:
+      213: -114147433267095236
+    second: SoE Sprites_9
+  - first:
+      213: 2821625865571252705
+    second: SoE Sprites_10
+  - first:
+      213: 930328385401632542
+    second: SoE Sprites_11
+  - first:
+      213: 6469267443435109071
+    second: SoE Sprites_12
+  - first:
+      213: 242045370058604597
+    second: SoE Sprites_13
+  - first:
+      213: -8397040309275262701
+    second: SoE Sprites_14
+  - first:
+      213: -352910172744416160
+    second: SoE Sprites_15
+  - first:
+      213: 2041656285760734805
+    second: SoE Sprites_16
+  - first:
+      213: 6431256167373677936
+    second: SoE Sprites_17
+  - first:
+      213: 6842573130777896630
+    second: SoE Sprites_18
+  - first:
+      213: -5408312574784678653
+    second: SoE Sprites_19
+  - first:
+      213: -4883786048959683688
+    second: SoE Sprites_20
+  - first:
+      213: -6398250096985823056
+    second: SoE Sprites_21
+  - first:
+      213: 2821014770627623882
+    second: SoE Sprites_22
+  - first:
+      213: 2023013773823184065
+    second: SoE Sprites_23
+  - first:
+      213: 4020550977008502180
+    second: SoE Sprites_24
+  - first:
+      213: 8764159789520248959
+    second: SoE Sprites_25
+  - first:
+      213: 8679894211527905025
+    second: SoE Sprites_26
+  - first:
+      213: 3867800231073605812
+    second: SoE Sprites_27
+  - first:
+      213: 6680387382634450912
+    second: SoE Sprites_14
+  - first:
+      213: -2288504780011471373
+    second: SoE Sprites_15
+  - first:
+      213: -2709760438544061526
+    second: SoE Sprites_16
+  - first:
+      213: 8956668943483388747
+    second: SoE Sprites_17
+  - first:
+      213: 4994825628084229035
+    second: SoE Sprites_18
+  - first:
+      213: 8979615464009901828
+    second: SoE Sprites_19
+  - first:
+      213: -9024720013781106153
+    second: SoE Sprites_20
+  - first:
+      213: -7891011268041114634
+    second: SoE Sprites_21
+  - first:
+      213: -1670469884624481922
+    second: SoE Sprites_22
+  - first:
+      213: 7985209977135169832
+    second: SoE Sprites_23
+  - first:
+      213: 6591174686731808707
+    second: SoE Sprites_24
+  - first:
+      213: -1717343656003956284
+    second: SoE Sprites_25
+  - first:
+      213: -2638422233287179453
+    second: SoE Sprites_26
+  - first:
+      213: 561231960974452994
+    second: SoE Sprites_27
+  - first:
+      213: 585343513703181077
+    second: SoE Sprites_28
+  - first:
+      213: 7048139606576114899
+    second: SoE Sprites_29
+  - first:
+      213: -7082596916286924278
+    second: SoE Sprites_30
+  - first:
+      213: -4737641684167353688
+    second: SoE Sprites_31
+  - first:
+      213: -2381697830394234971
+    second: SoE Sprites_32
+  - first:
+      213: 6986942441252970477
+    second: SoE Sprites_33
+  - first:
+      213: 197496101593769474
+    second: SoE Sprites_34
+  - first:
+      213: 8788739760577292383
+    second: SoE Sprites_35
+  - first:
+      213: -2189901687341395708
+    second: SoE Sprites_36
+  - first:
+      213: 5729688041642177944
+    second: SoE Sprites_37
+  - first:
+      213: 202781285465956930
+    second: SoE Sprites_38
+  - first:
+      213: 3766433033172188877
+    second: SoE Sprites_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SoE Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 462
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9933fb0d695673390800000000000000
+      internalID: -7838684927993367655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 462
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6224ffc0531915020800000000000000
+      internalID: 2328802139364606502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 462
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55c87d6c63d010e0800000000000000
+      internalID: -2301106946939763364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 459
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772c6ba883279c5c0800000000000000
+      internalID: -4194695990747938185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 458
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652b4c75d0c20cca0800000000000000
+      internalID: -5998746267838795178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 459
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beafe7898106dd40800000000000000
+      internalID: 5608672076139310777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 459
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c145a6e4b2fc8f60800000000000000
+      internalID: 8038066293727117763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 408
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9672ce2b44c8263f0800000000000000
+      internalID: -909009948087933079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 407
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3b5d9d348745950800000000000000
+      internalID: 6436902000232084419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 404
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c399714a3877a6ef0800000000000000
+      internalID: -114147433267095236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 403
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9bd6e66cd682720800000000000000
+      internalID: 2821625865571252705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 404
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17b358ccb039ec00800000000000000
+      internalID: 930328385401632542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 403
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaf2f2d67477c950800000000000000
+      internalID: 6469267443435109071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 403
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5300fdd4bfaeb5300800000000000000
+      internalID: 242045370058604597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 350
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef8de72ee085bc50800000000000000
+      internalID: 6680387382634450912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 348
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdf1a017099d30e0800000000000000
+      internalID: -2288504780011471373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 347
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabac22fc3ff46ad0800000000000000
+      internalID: -2709760438544061526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 348
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43c91b13fa7c4c70800000000000000
+      internalID: 8956668943483388747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 349
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba35afce17f215540800000000000000
+      internalID: 4994825628084229035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 346
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4072aef30b00e9c70800000000000000
+      internalID: 8979615464009901828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 346
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712083566f0c1c280800000000000000
+      internalID: -9024720013781106153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 288
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbfdc16f0f7d7290800000000000000
+      internalID: -7891011268041114634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 287
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7158fe8d7c41d8e0800000000000000
+      internalID: -1670469884624481922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 288
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8210c00ba2a21de60800000000000000
+      internalID: 7985209977135169832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 289
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf223fb47e887b50800000000000000
+      internalID: 6591174686731808707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 286
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c11d923b05ca28e0800000000000000
+      internalID: -1717343656003956284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 287
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343cc6135f0726bd0800000000000000
+      internalID: -2638422233287179453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 284
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2096a76be75e9c700800000000000000
+      internalID: 561231960974452994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 199
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b6bdd03de8f1800800000000000000
+      internalID: 585343513703181077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 202
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dca45921a500d160800000000000000
+      internalID: 7048139606576114899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ad07d31af85bd90800000000000000
+      internalID: -7082596916286924278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 141
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa1f164df3804eb0800000000000000
+      internalID: -4737641684167353688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 142
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a77809217282fed0800000000000000
+      internalID: -2381697830394234971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 146
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defdbf4c12b96f060800000000000000
+      internalID: 6986942441252970477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 95
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206650478a5adb200800000000000000
+      internalID: 197496101593769474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 92
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58af8c5f30e7f970800000000000000
+      internalID: 8788739760577292383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 97
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401dcf89408eb91e0800000000000000
+      internalID: -2189901687341395708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 52
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895b2ebaae0f38f40800000000000000
+      internalID: 5729688041642177944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242ab47318c60d200800000000000000
+      internalID: 202781285465956930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoE Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 50
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce768463ee054430800000000000000
+      internalID: 3766433033172188877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
